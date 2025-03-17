@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShahriarTbc&bg_color=e3e3e3&color=000000&line=0cc048&point=345544&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
